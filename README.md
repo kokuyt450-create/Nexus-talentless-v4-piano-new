@@ -1,4 +1,4 @@
-# 🎹 [NEXUS-PIANO-V4-NEW] - Piano Roblox
+# 🎹 [NEXUS-PIANO-V5-NEW] - Piano Roblox
 
 **Script avançado de piano para Roblox**  
 Versão: 1.0  
