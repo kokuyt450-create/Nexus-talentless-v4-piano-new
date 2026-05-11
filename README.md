@@ -41,12 +41,12 @@ Distribuído sob licença **MIT com Restrições** (veja o arquivo [LICENSE](LIC
 Sinta-se à vontade para usar em vídeos, mas por favor coloque o link deste repositório na descrição.
 
 ## Contato
-- GitHub: @[]
-- Discord: (opcional)
+- GitHub: @[kokuyt450-create]
+- Discord: (https://discord.gg/panjXr9qTt)
 
 ---
 
 **Feito com ❤️ para a comunidade de piano do Roblox**  
 Se gostou do projeto, deixe uma ⭐ no repositório!
 
-Copyright © 2026 [SEU NOME]. Todos os direitos reservados.
+Copyright © 2026 [Rimuru]. Todos os direitos reservados.
